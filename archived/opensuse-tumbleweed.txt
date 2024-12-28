@@ -1,0 +1,13 @@
+# openSUSE Tumbleweed KDE
+
+1. Instalar virtualização (YaST)
+
+2. Instalar aplicações (zypper): sudo zypper in 0ad audacious audacity bibletime chromium cpu-x discord distrobox dolphin-emu dosbox evolution evolution-ews extreme-tuxracer fastfetch fetchmsttfonts firewall-config fortune gimp gimp-help-pt_BR google-noto-sans-cjk-fonts goverlay gparted GraphicsMagick inkscape k3b keepassxc kolourpaint krita libvirt-daemon lmms lutris mame mangohud mozilla-openh264 MozillaThunderbird neochat opi pcsc-ccid pcsc-lite pdfarranger pdfmixtool printer-driver-brlaser qbittorrent qpwgraph rclone retroarch speedtest-cli steam stress-ng supertux2 supertuxkart telegram-desktop tesseract-ocr tesseract-ocr-traineddata-por xonotic yt-dlp zram-generator
+
+3. Instalar aplicações (opi): python311-OCRmyPDF (frank_kunz)
+
+4. Instalar aplicações (flatpak): sudo flatpak install com.brave.Browser com.frogatto.Frogatto com.github.junrrein.PDFSlicer com.github.tchx84.Flatseal com.heroicgameslauncher.hgl com.microsoft.Edge com.obsproject.Studio com.spotify.Client com.usebottles.bottles net._86box._86Box net.cozic.joplin_desktop net.davidotek.pupgui2 org.ferdium.Ferdium org.freedesktop.Platform.VulkanLayer.MangoHud org.kde.kdenlive org.nicotine_plus.Nicotine org.onlyoffice.desktopeditors org.signal.Signal us.zoom.Zoom
+
+5. Instalar pacotes recomendados (zypper): sudo zypper install-new-recommends
+
+6. Instalar avulsos: insync lacuna-webpki calibri pdfsam pje-office safesign softplan-websigner

@@ -1,0 +1,13 @@
+# Fedora 40 Workstation
+
+1. Instalar virtualização (dnf): sudo dnf install @virtualization
+
+2. Instalar aplicações (dnf): sudo dnf install 0ad audacious audacity beep bibletime btrfs-assistant cdrskin chromium corectrl cpu-x diffpdf distrobox dnf-plugin-snapper dolphin-emu dosbox-staging evolution evolution-ews extremetuxracer fastfetch firewall-config flatseal fortune-mod fractal gimp gimp-help-pt_BR goverlay gparted GraphicsMagick inkscape input-remapper java-openjdk k3b keepassxc kernel-tools kolourpaint krita libreoffice-draw lmms lutris mame mangohud mozilla-openh264 nicotine+ ocrmypdf okular openssl pdfarranger pdfmixtool polari printer-driver-brlaser qbittorrent qpwgraph rclone retroarch rmlint snapper speedtest-cli steam stress-ng supertux supertuxkart system-config-printer tesseract-langpack-por thunderbird vim-enhanced xonotic yt-dlp
+
+3. Instalar aplicações (flatpak): flatpak install com.brave.Browser com.discordapp.Discord com.frogatto.Frogatto com.github.junrrein.PDFSlicer com.heroicgameslauncher.hgl com.microsoft.Edge com.obsproject.Studio com.spotify.Client com.usebottles.bottles net._86box._86Box net.cozic.joplin_desktop net.davidotek.pupgui2 org.ferdium.Ferdium org.freedesktop.Platform.VulkanLayer.MangoHud org.kde.kdenlive org.onlyoffice.desktopeditors org.signal.Signal org.telegram.desktop org.videolan.VLC us.zoom.Zoom
+
+4. Instalar avulsos: insync lacuna-webpki msttcore-fonts-installer pdfsam pje-office safesign softplan-websigner
+
+5. Extensões Gnome: Alphabetical App Grid, Weather O'Clock
+
+6. Remover aplicação (dnf): sudo dnf remove opensc

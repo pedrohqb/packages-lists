@@ -1,0 +1,15 @@
+# Debian 12 Gnome
+
+1. Habilitar multiarquitetura: sudo dpkg --add-architecture i386
+
+2. Instalar aplicações (apt): sudo apt install 0ad adwaita-qt adwaita-qt6 audacious audacity beep bibletime chromium chromium-l10n cpu-x default-jre diffpdf distrobox dolphin-emu dosbox evolution-ews extremetuxracer fakeroot firewall-config firewalld flatpak fortune-mod frogatto gamemode gimp gimp-help-pt-br gnome-shell-extension-appindicator gnome-shell-extension-impatience gnome-software-plugin-flatpak goverlay gparted graphicsmagick inkscape input-remapper k3b kdenlive keepassxc kolourpaint krita libfdk-aac-dev libreoffice-java-common libvirt-daemon-system linux-cpupower lmms lutris mame mangohud neofetch obs-studio ocrmypdf okular pdfarranger pdfsam podman polari printer-driver-brlaser qbittorrent qemu-system qgnomeplatform-qt5 qpwgraph rclone retroarch speedtest-cli steam-installer stress-ng supertux supertuxkart system-config-printer systemd-zram-generator telegram-desktop tesseract-ocr tesseract-ocr-eng tesseract-ocr-por thunderbird thunderbird-l10n-pt-br ttf-mscorefonts-installer virt-manager vlc pavucontrol
+
+3. Instalar aplicações no backports (apt): sudo apt install yt-dlp/bookworm-backports
+
+4. Instalar aplicações (flatpak): sudo flatpak install com.brave.Browser com.discordapp.Discord com.github.junrrein.PDFSlicer com.github.tchx84.Flatseal com.heroicgameslauncher.hgl com.microsoft.Edge com.spotify.Client com.usebottles.bottles de.haeckerfelix.Shortwave eu.scarpetta.PDFMixTool net._86box._86Box net.cozic.joplin_desktop net.davidotek.pupgui2 org.ferdium.Ferdium org.freedesktop.Platform.VulkanLayer.MangoHud org.gnome.Fractal org.nicotine_plus.Nicotine org.onlyoffice.desktopeditors org.signal.Signal org.xonotic.Xonotic us.zoom.Zoom
+
+5. Instalar avulsos: calibri insync lacuna-webpki pje-office safesign softplan-websigner
+
+6. Extensões Gnome: Alphabetical App Grid, Weather O'Clock
+
+7. AirPods Pro 2: gerar libspa-codec-bluez5-aac_0.3.65_amd64.deb e instalar - https://unix.stackexchange.com/questions/750785/bluetooth-issues-with-airpods-pro-2-on-debian-12
