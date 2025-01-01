@@ -120,7 +120,7 @@
     # Audio/Video
     obs-studio.enable = true;
 
-    # Virtualization
+    # Virtualization/Emulation
     virt-manager.enable = true;
   };
 
