@@ -11,6 +11,7 @@ in
   ];
 
   home-manager.users.pedro = {
+    
     # This should be the same value as `system.stateVersion` in
     # your `configuration.nix` file.
     home.stateVersion = "24.11";
