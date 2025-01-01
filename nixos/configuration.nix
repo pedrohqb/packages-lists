@@ -186,7 +186,6 @@
     rmlint
     speedtest-cli
     ventoy
-    home-manager
 
     # GUI tools
     gparted
