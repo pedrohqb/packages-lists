@@ -185,6 +185,7 @@
     ocrmypdf
     rmlint
     speedtest-cli
+    ventoy
 
     # GUI tools
     gparted
@@ -195,7 +196,6 @@
     cpu-x
     bottles
     kdePackages.k3b
-    ventoy
 
     # Education
     bibletime
