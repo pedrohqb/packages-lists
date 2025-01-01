@@ -103,6 +103,7 @@
     evolution.enable = true;
     evolution.plugins = [ pkgs.evolution-ews ];
     system-config-printer.enable = true;
+    java.enable = true;
 
     # CLI Tools
     vim.enable = true;
@@ -110,7 +111,6 @@
 
     # GUI tools
     corectrl.enable = true;
-    java.enable = true;
 
     # Games
     gamescope.enable = true;
