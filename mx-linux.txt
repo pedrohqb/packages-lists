@@ -16,7 +16,7 @@ Utilitários: KeePassXC
 Vídeo: Kdenlive
 Virtualização: Virt-manager (libvirt), VirtualBox
 
-2. Instalar aplicações (apt): sudo apt install audacity bibletime distrobox fortune-mod graphicsmagick lmms nicotine ocrmypdf pdfsam podman polari printer-driver-brlaser qpwgraph rclone speedtest-cli stress-ng tesseract-ocr tesseract-ocr-eng tesseract-ocr-por yt-dlp
+2. Instalar aplicações (apt): sudo apt install audacity bibletime distrobox fortune-mod graphicsmagick lmms nicotine ocrmypdf ovmf pdfsam podman polari printer-driver-brlaser qpwgraph rclone speedtest-cli stress-ng tesseract-ocr tesseract-ocr-eng tesseract-ocr-por yt-dlp
 
 3. Instalar jogos (apt): sudo apt install 0ad dolphin-emu dosbox frogatto gamemode goverlay mame mangohud retroarch
 
