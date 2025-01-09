@@ -7,7 +7,7 @@ Escritório: Microsoft Fonts, Okular, OnlyOffice Desktop Editors
 Gráficos/Imagem: GIMP Full, Inkscape, Krita
 Gravador de Tela: OBS-Studio
 Idiomas: Portuguese (BR), Portuguese (BR) Firefox, Portuguese (BR) Libreoffice, Portuguese (BR) Thunderbird
-Jogos: Lutris, Steam, SuperTux, SuperTuxKar
+Jogos: Lutris, Steam, SuperTux, SuperTuxKart
 Mensagens: Discord, Signal Desktop Client, Telegram Desktop Client, Zoom
 Navegadores de Internet: Brave, Chromium, MS-Edge
 Torrent: qBittorrent
