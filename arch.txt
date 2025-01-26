@@ -2,7 +2,7 @@
 
 1. Instalar aplicações (pacman): sudo pacman -S --needed audacious audacity bash-completion bibletime ccid chromium corectrl cpupower cups diffpdf discord distrobox dnsmasq docx2txt edk2-ovmf evolution evolution-ews fastfetch firefox firefox-i18n-pt-br firewalld flatpak fortune-mod fwupd gimp gimp-help-pt_br git gnome-keyring gparted graphicsmagick gwenview hunspell hunspell-en_us inkscape jre-openjdk k3b kcalc kdenlive keepassxc kfind kolourpaint konversation krita libmicrodns libreoffice-fresh libreoffice-fresh-pt-br libvirt linux-headers linux-lts-headers lmms lostfiles man-db man-pages man-pages-pt_br neochat nicotine+ noto-fonts-cjk nss-mdns obs-studio okular pacutils pcsclite pdfarranger pdfmixtool pdfslicer plymouth podman power-profiles-daemon qbittorrent qemu-desktop qpwgraph rclone rebuild-detector reflector rsync sbctl shortwave signal-desktop snap-pac snapper spectacle speedtest-cli stress swtpm system-config-printer telegram-desktop tesseract tesseract-data-eng tesseract-data-por thunderbird thunderbird-i18n-pt-br unrar virt-manager virtualbox virtualbox-host-dkms yakuake yt-dlp
 
-2. Instalar jogos (pacman): sudo pacman -S --needed 0ad dolphin-emu dosbox frogatto gamemode gamescope goverlay libretro lutris mame mangohud steam steam-native-runtime supertux supertuxkart xonotic
+2. Instalar jogos (pacman): sudo pacman -S --needed 0ad dolphin-emu dosbox gamemode gamescope goverlay libretro lutris mame mangohud steam steam-native-runtime supertux supertuxkart xonotic
 
 3. Instalar aplicações (flatpak): sudo flatpak install com.github.tchx84.Flatseal com.usebottles.bottles net._86box._86Box net.cozic.joplin_desktop
 
