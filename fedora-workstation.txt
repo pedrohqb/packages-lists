@@ -1,4 +1,4 @@
-# Fedora 40 Workstation
+# Fedora 41 Workstation
 
 1. Instalar virtualização (dnf): sudo dnf install @virtualization
 
