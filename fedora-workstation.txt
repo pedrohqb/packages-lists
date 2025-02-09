@@ -6,7 +6,7 @@
 
 2. Instalar jogos (dnf): sudo dnf install 0ad dolphin-emu dosbox-staging extremetuxracer gamescope goverlay lutris mame mangohud retroarch steam supertux supertuxkart xonotic
 
-3. Instalar aplicações (flatpak): flatpak install com.brave.Browser com.discordapp.Discord com.github.junrrein.PDFSlicer com.microsoft.Edge com.obsproject.Studio com.spotify.Client com.usebottles.bottles de.haeckerfelix.Shortwave flatpak install net._86box._86Box net.cozic.joplin_desktop net.davidotek.pupgui2 org.ferdium.Ferdium org.kde.kdenlive org.onlyoffice.desktopeditors org.signal.Signal org.telegram.desktop org.videolan.VLC us.zoom.Zoom
+3. Instalar aplicações (flatpak): flatpak install com.brave.Browser com.discordapp.Discord com.github.junrrein.PDFSlicer com.microsoft.Edge com.obsproject.Studio com.spotify.Client com.usebottles.bottles de.haeckerfelix.Shortwave install net._86box._86Box net.cozic.joplin_desktop net.davidotek.pupgui2 org.ferdium.Ferdium org.kde.kdenlive org.onlyoffice.desktopeditors org.signal.Signal org.telegram.desktop org.videolan.VLC us.zoom.Zoom
 
 4. Instalar jogos (flatpak): flatpak install com.heroicgameslauncher.hgl org.freedesktop.Platform.VulkanLayer.MangoHud
 
