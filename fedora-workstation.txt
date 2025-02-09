@@ -2,7 +2,7 @@
 
 1. Instalar virtualização (dnf): sudo dnf group install --with-optional virtualization
 
-2. Instalar aplicações (dnf): sudo dnf install audacious audacity bibletime btrfs-assistant cdrskin chromium corectrl cpu-x diffpdf distrobox evolution evolution-ews fastfetch firewall-config flatseal fortune-mod fractal gimp gimp-help-pt_BR gparted GraphicsMagick inkscape input-remapper java-openjdk k3b keepassxc kernel-tools kolourpaint krita libreoffice-draw lmms nicotine+ ocrmypdf papers pdfarranger pdfmixtool polari printer-driver-brlaser qbittorrent qpwgraph rclone shortwave shrinkpdf snapper speedtest-cli stress-ng system-config-printer tesseract tesseract-langpack-por thunderbird unrar vim-enhanced yt-dlp
+2. Instalar aplicações (dnf): sudo dnf install audacious audacity bibletime btrfs-assistant cdrskin chromium corectrl cpu-x diffpdf distrobox evolution evolution-ews fastfetch firewall-config flatseal fortune-mod fractal gimp gimp-help-pt_BR GraphicsMagick inkscape input-remapper java-openjdk k3b keepassxc kolourpaint krita libreoffice-draw lmms nicotine+ ocrmypdf papers pdfarranger pdfmixtool polari printer-driver-brlaser qbittorrent qpwgraph rclone shortwave shrinkpdf snapper speedtest-cli stress-ng system-config-printer tesseract tesseract-langpack-por thunderbird unrar vim-enhanced yt-dlp
 
 2. Instalar jogos (dnf): sudo dnf install 0ad dolphin-emu dosbox-staging extremetuxracer gamescope goverlay lutris mame mangohud retroarch steam supertux supertuxkart xonotic
 
