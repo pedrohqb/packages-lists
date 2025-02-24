@@ -1,10 +1,10 @@
 # Linux Mint Debian Edition 6
 
-1. Instalar aplicações (apt): sudo apt install audacious audacity bibletime chromium corectrl cpu-x diffpdf distrobox docx2txt fortune-mod gimp gimp-help-pt-br git gparted graphicsmagick inkscape input-remapper k3b kdenlive keepassxc krita libfdk-aac-dev libvirt-daemon-system linux-cpupower lmms obs-studio ocrmypdf okular pcscd pdfarranger pdfsam podman qbittorrent qemu-system qpwgraph rclone speedtest-cli stress-ng tesseract-ocr tesseract-ocr-eng tesseract-ocr-por ttf-mscorefonts-installer virt-manager vlc
+1. Instalar aplicações (apt): sudo apt install audacious audacity bibletime chromium corectrl cpu-x diffpdf distrobox docx2txt fortune-mod gimp gimp-help-pt-br git gparted graphicsmagick inkscape input-remapper k3b keepassxc krita libfdk-aac-dev libvirt-daemon-system linux-cpupower lmms ocrmypdf okular pcscd pdfarranger pdfsam podman qbittorrent qemu-system qpwgraph rclone speedtest-cli stress-ng tesseract-ocr tesseract-ocr-eng tesseract-ocr-por ttf-mscorefonts-installer virt-manager vlc
 
 2. Instalar jogos (apt): sudo apt install 0ad extremetuxracer gamescope goverlay mangohud supertux supertuxkart
 
-3. Instalar aplicações (flatpak): sudo flatpak install com.brave.Browser com.discordapp.Discord com.github.junrrein.PDFSlicer com.github.tchx84.Flatseal com.microsoft.Edge com.spotify.Client com.usebottles.bottles de.haeckerfelix.Shortwave eu.scarpetta.PDFMixTool net._86box._86Box net.cozic.joplin_desktop org.ferdium.Ferdium org.gnome.Evolution org.gnome.Fractal org.nicotine_plus.Nicotine org.onlyoffice.desktopeditors org.signal.Signal org.telegram.desktop us.zoom.Zoom
+3. Instalar aplicações (flatpak): sudo flatpak install com.brave.Browser com.discordapp.Discord com.github.junrrein.PDFSlicer com.github.tchx84.Flatseal com.microsoft.Edge com.obsproject.Studio com.spotify.Client com.usebottles.bottles de.haeckerfelix.Shortwave eu.scarpetta.PDFMixTool net._86box._86Box net.cozic.joplin_desktop org.ferdium.Ferdium org.gnome.Evolution org.gnome.Fractal org.kde.kdenlive org.nicotine_plus.Nicotine org.onlyoffice.desktopeditors org.signal.Signal org.telegram.desktop us.zoom.Zoom
 
 4. Instalar jogos (flatpak): sudo flatpak install com.heroicgameslauncher.hgl com.valvesoftware.Steam io.github.dosbox-staging net.davidotek.pupgui2 net.lutris.Lutris org.DolphinEmu.dolphin-emu org.freedesktop.Platform.VulkanLayer.MangoHud org.libretro.RetroArch org.mamedev.MAME org.xonotic.Xonotic
 
