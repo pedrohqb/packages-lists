@@ -14,4 +14,4 @@
 
 7. Instalar avulsos: calibri lacuna-webpki pdfsam pje-office safesign softplan-websigner
 
-OBS: Configuração Insync com distrobox: https://forums.insynchq.com/t/insync-as-flatpak-linux/9615/86?page=5
+Configuração Insync com distrobox: https://forums.insynchq.com/t/insync-as-flatpak-linux/9615/86?page=5
