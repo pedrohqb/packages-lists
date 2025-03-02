@@ -13,3 +13,5 @@
 6. Extensões Gnome: Alphabetical App Grid, Weather O'Clock, AppIndicator and KStatusNotifierItem Support
 
 7. Instalar avulsos: calibri lacuna-webpki pdfsam pje-office safesign softplan-websigner
+
+OBS: Configuração Insync com distrobox: https://forums.insynchq.com/t/insync-as-flatpak-linux/9615/86?page=5
