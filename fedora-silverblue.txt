@@ -2,13 +2,13 @@
 
 1. Instalar aplicações "layers" (rpm-ostree): sudo rpm-ostree install distrobox printer-driver-brlaser
 
-2. Instalar aplicações (flatpak): flatpak install flathub com.brave.Browser com.discordapp.Discord com.github.jeromerobert.pdfarranger com.github.junrrein.PDFSlicer com.github.tchx84.Flatseal com.microsoft.Edge com.obsproject.Studio com.spotify.Client com.usebottles.bottles de.haeckerfelix.Shortwave eu.scarpetta.PDFMixTool info.bibletime.BibleTime io.github.thetumultuousunicornofdarkness.cpu-x io.lmms.LMMS net._86box._86Box net.cozic.joplin_desktop org.atheme.audacious org.audacityteam.Audacity org.ferdium.Ferdium org.gimp.GIMP org.gnome.Boxes org.gnome.Evolution org.gnome.Fractal org.gnome.Papers org.gnome.Polari org.inkscape.Inkscape org.kde.kdenlive org.kde.kolourpaint org.kde.krita org.keepassxc.KeePassXC org.libreoffice.LibreOffice org.mozilla.Thunderbird org.nicotine_plus.Nicotine org.onlyoffice.desktopeditors org.qbittorrent.qBittorrent org.rncbc.qpwgraph org.signal.Signal org.telegram.desktop org.videolan.VLC us.zoom.Zoom
+2. Instalar aplicações (flatpak): flatpak install flathub com.brave.Browser com.discordapp.Discord com.github.jeromerobert.pdfarranger com.github.junrrein.PDFSlicer com.github.tchx84.Flatseal com.microsoft.Edge com.obsproject.Studio com.spotify.Client com.usebottles.bottles de.haeckerfelix.Shortwave eu.scarpetta.PDFMixTool info.bibletime.BibleTime io.github.thetumultuousunicornofdarkness.cpu-x io.lmms.LMMS net._86box._86Box net.cozic.joplin_desktop org.atheme.audacious org.audacityteam.Audacity org.ferdium.Ferdium org.gimp.GIMP org.gnome.Boxes org.gnome.Evolution org.gnome.Fractal org.gnome.Polari org.inkscape.Inkscape org.kde.kdenlive org.kde.kolourpaint org.kde.krita org.keepassxc.KeePassXC org.libreoffice.LibreOffice org.mozilla.Thunderbird org.nicotine_plus.Nicotine org.onlyoffice.desktopeditors org.qbittorrent.qBittorrent org.rncbc.qpwgraph org.signal.Signal org.telegram.desktop org.videolan.VLC us.zoom.Zoom
 
 3. Instalar jogos (flatpak): flatpak install flathub com.heroicgameslauncher.hgl com.play0ad.zeroad com.valvesoftware.Steam io.github.dosbox-staging net.davidotek.pupgui2 net.lutris.Lutris net.sourceforge.ExtremeTuxRacer net.supertuxkart.SuperTuxKart org.DolphinEmu.dolphin-emu org.freedesktop.Platform.VulkanLayer.MangoHud org.libretro.RetroArch org.mamedev.MAME org.supertuxproject.SuperTux org.xonotic.Xonotic
 
 4. Instalar aplicações (toolbox): sudo dnf install fastfetch fortune-mod GraphicsMagick ocrmypdf openssl rclone speedtest-cli stress-ng tesseract tesseract-langpack-eng tesseract-langpack-por yt-dlp
 
-5. Instalar aplicações (distrobox): chromium insync
+5. Instalar aplicações (distrobox): chromium insync papers
 
 6. Extensões Gnome: Alphabetical App Grid, Weather O'Clock, AppIndicator and KStatusNotifierItem Support
 
