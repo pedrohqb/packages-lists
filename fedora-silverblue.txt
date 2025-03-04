@@ -6,7 +6,7 @@
 
 3. Instalar jogos (flatpak): flatpak install flathub com.heroicgameslauncher.hgl com.play0ad.zeroad com.valvesoftware.Steam io.github.dosbox-staging net.davidotek.pupgui2 net.lutris.Lutris net.sourceforge.ExtremeTuxRacer net.supertuxkart.SuperTuxKart org.DolphinEmu.dolphin-emu org.freedesktop.Platform.VulkanLayer.MangoHud org.libretro.RetroArch org.mamedev.MAME org.supertuxproject.SuperTux org.xonotic.Xonotic
 
-4. Instalar aplicações (toolbox): sudo dnf install binutils fastfetch fortune-mod GraphicsMagick ocrmypdf openssl rclone speedtest-cli stress-ng tesseract tesseract-langpack-eng tesseract-langpack-por yt-dlp
+4. Instalar aplicações (toolbox): sudo dnf install binutils fastfetch GraphicsMagick ocrmypdf openssl rclone speedtest-cli stress-ng tesseract tesseract-langpack-eng tesseract-langpack-por yt-dlp
 
 5. Instalar aplicações (distrobox): chromium insync papers
 
