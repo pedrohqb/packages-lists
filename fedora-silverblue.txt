@@ -1,4 +1,4 @@
-# Fedora Silverblue 41
+# Fedora Silverblue 42
 
 1. Instalar aplicações "layers" (rpm-ostree): sudo rpm-ostree install distrobox printer-driver-brlaser
 
