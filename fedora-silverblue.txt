@@ -1,6 +1,6 @@
 # Fedora Silverblue 42
 
-1. Instalar aplicações "layers" (rpm-ostree): sudo rpm-ostree install distrobox printer-driver-brlaser
+1. Instalar aplicações "layers" (rpm-ostree): sudo rpm-ostree install distrobox evolution-ews-core
 
 2. Instalar aplicações (flatpak): flatpak install flathub com.brave.Browser com.discordapp.Discord com.github.jeromerobert.pdfarranger com.github.junrrein.PDFSlicer com.github.tchx84.Flatseal com.microsoft.Edge com.obsproject.Studio com.spotify.Client com.usebottles.bottles de.haeckerfelix.Shortwave eu.scarpetta.PDFMixTool info.bibletime.BibleTime io.lmms.LMMS net._86box._86Box net.cozic.joplin_desktop org.atheme.audacious org.audacityteam.Audacity org.ferdium.Ferdium org.gimp.GIMP org.gnome.Boxes org.gnome.Evolution org.gnome.Fractal org.gnome.Polari org.inkscape.Inkscape org.kde.kdenlive org.kde.kolourpaint org.kde.krita org.keepassxc.KeePassXC org.libreoffice.LibreOffice org.mozilla.Thunderbird org.nicotine_plus.Nicotine org.onlyoffice.desktopeditors org.qbittorrent.qBittorrent org.rncbc.qpwgraph org.signal.Signal org.telegram.desktop org.videolan.VLC us.zoom.Zoom
 
