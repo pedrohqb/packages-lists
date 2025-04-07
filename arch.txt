@@ -10,4 +10,4 @@
 
 5. Instalar jogos (yay): yay -Suy --needed heroic-games-launcher-bin protontricks protonup-qt
 
-Miscelânea: a) instalar msgconv: $ cpan -i Email::Outlook::Message (cf. https://www.matijs.net/software/msgconv/)
+Opcionais: instalar msgconv (cf. https://www.matijs.net/software/msgconv/)
