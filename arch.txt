@@ -8,6 +8,6 @@
 
 4. Instalar aplicações (yay): yay -Suy --needed brave-bin brother-hl1210w btrfs-assistant etcher-bin ferdium-bin hunspell-pt-br instaloader insync lacuna-webpki microsoft-edge-stable-bin ocrmypdf onlyoffice-bin pdfsam pje-office qt6-heic-image-plugin rmlint safesignidentityclient shrinkpdf softplan-websigner spotify ttf-ms-win11-auto ventoy-bin verapdf zoom
 
-5. Instalar jogos (yay): yay -Suy --needed brutal-doom bzflag freedoom gzdoom heroic-games-launcher-bin neverball protontricks protonup-qt xmoto
+5. Instalar jogos (yay): yay -Suy --needed brutal-doom bzflag freedoom gzdoom-git heroic-games-launcher-bin neverball protontricks protonup-qt xmoto
 
 Opcionais: instalar msgconv (cf. https://www.matijs.net/software/msgconv/)
