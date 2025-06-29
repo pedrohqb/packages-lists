@@ -8,7 +8,7 @@ Diversos: Wine
 
 E-mail: Evolution
 
-Escritório: Microsoft Fonts, OnlyOffice Desktop Editors
+Escritório: Microsoft Fonts, Okular, OnlyOffice Desktop Editors
 
 Graficos/Imagens: GIMP Full, Inkscape, Krita
 
