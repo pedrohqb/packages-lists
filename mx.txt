@@ -32,7 +32,7 @@ Vídeo: Kdenlive
 
 Virtualização: Virt-manager, VirtualBox
 
-2. Instalar aplicações (apt): sudo apt install bibletime cpu-x distrobox docx2txt evolution-ews graphicsmagick k3b kolourpaint ocrmypdf pcscd pdfsam podman polari printer-driver-brlaser qpwgraph rclone remmina rmlint tesseract-ocr tesseract-ocr-eng tesseract-ocr-por texlive-full texstudio winetricks yt-dlp
+2. Instalar aplicações (apt): sudo apt install bibletime cpu-x distrobox docx2txt evolution-ews graphicsmagick k3b kolourpaint ocrmypdf pcscd pdfsam podman polari printer-driver-brlaser qpwgraph rclone remmina remmina-plugin-rdp remmina-plugin-vnc rmlint tesseract-ocr tesseract-ocr-eng tesseract-ocr-por texlive-full texstudio winetricks yt-dlp
 
 3. Instalar aplicações (flatpak): sudo flatpak install com.github.tchx84.Flatseal com.usebottles.bottles de.haeckerfelix.Shortwave net.cozic.joplin_desktop org.ferdium.Ferdium org.gnome.Fractal
 
