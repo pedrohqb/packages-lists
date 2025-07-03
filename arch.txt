@@ -1,13 +1,13 @@
 # Arch Plasma instalado via archinstall (com linux and linux-lts)
 
-1. Instalar aplicações (pacman): sudo pacman -Suy --needed audacity bash-completion bibletime ccid chromium cpu-x cups discord distrobox dnsmasq docx2txt edk2-ovmf evolution evolution-ews fastfetch firefox firefox-i18n-pt-br firewalld flatpak fwupd gimp gimp-help-pt_br git gnome-keyring gparted graphicsmagick gwenview hunspell-en_us inkscape jre-openjdk k3b kcalc kdenlive keepassxc kfind kolourpaint konversation krdc krita libmicrodns libreoffice-fresh libreoffice-fresh-pt-br libvirt libvncserver linux-headers linux-lts-headers lostfiles man-db man-pages man-pages-pt_br neochat noto-fonts-cjk nss-mdns obs-studio okular pacutils pdfarranger plymouth podman power-profiles-daemon qbittorrent qemu-desktop qpwgraph rclone rebuild-detector refind reflector shortwave signal-desktop snap-pac snapper swtpm telegram-desktop tesseract tesseract-data-eng tesseract-data-por texlive-meta texstudio unrar virt-manager virtualbox virtualbox-host-dkms vlc whois wine-staging winetricks yakuake yt-dlp
+1. Instalar aplicações (pacman): sudo pacman -Suy --needed audacity bash-completion bibletime ccid chromium cups discord distrobox dnsmasq docx2txt edk2-ovmf evolution evolution-ews fastfetch firefox firefox-i18n-pt-br firewalld flatpak fwupd gimp gimp-help-pt_br git gnome-keyring gparted graphicsmagick gwenview hunspell-en_us jre-openjdk k3b kcalc kdenlive keepassxc kfind kolourpaint krdc libmicrodns libreoffice-fresh libreoffice-fresh-pt-br libvirt libvncserver linux-headers linux-lts-headers lostfiles man-db man-pages man-pages-pt_br noto-fonts-cjk nss-mdns obs-studio okular pacutils pdfarranger plymouth podman power-profiles-daemon qbittorrent qemu-desktop qpwgraph rclone rebuild-detector refind shortwave signal-desktop snap-pac snapper swtpm telegram-desktop tesseract tesseract-data-eng tesseract-data-por unrar virt-manager virtualbox virtualbox-host-dkms vlc whois yt-dlp
 
 2. Instalar aplicações (yay): yay -Suy --needed brave-bin brother-hl1210w btrfs-assistant etcher-bin ferdium-bin hunspell-pt-br joplin-bin lacuna-webpki microsoft-edge-stable-bin ocrmypdf onlyoffice-bin pacman-boot-backup-hook pdfsam pje-office qt6-heic-image-plugin rmlint safesignidentityclient shrinkpdf softplan-websigner spotify ttf-ms-win11-auto ventoy-bin verapdf zoom
 
 3. Instalar aplicações (flatpak): sudo flatpak install com.github.tchx84.Flatseal com.usebottles.bottles
 
+---
+
 4. Instalar jogos (pacman): sudo pacman -Suy --needed 0ad astromenace augustus chromium-bsu dolphin-emu dosbox gamemode gamescope gnuchess goverlay hedgewars knights kolf kpat libretro luanti lutris mangohud openra openrct2 prismlauncher singularity steam steam-native-runtime supertux supertuxkart teeworlds warsow warzone2100 wesnoth xonotic
 
 5. Instalar jogos (yay): yay -Suy --needed airshipper heroic-games-launcher-bin protontricks protonup-qt
-
-Opcionais: instalar msgconv (cf. https://www.matijs.net/software/msgconv/)
