@@ -6,6 +6,6 @@
 
 3. Instalar aplicações (flatpak): sudo flatpak install com.github.tchx84.Flatseal com.microsoft.Edge com.spotify.Client com.usebottles.bottles net.cozic.joplin_desktop org.ferdium.Ferdium org.verapdf.veraPDF us.zoom.Zoom
 
-4. Instalar jogos (pacman): sudo pacman -Suy --needed 0ad astromenace augustus dolphin-emu gamemode gamescope gnuchess goverlay hedgewars knights kolf kpat lutris mangohud openra openrct2 prismlauncher retroarch retroarch-assets-ozone retroarch-assets-xmb singularity steam steam-native-runtime supertux supertuxkart teeworlds warsow warzone2100 wesnoth xonotic
+4. Instalar jogos (pacman): sudo pacman -Suy --needed 0ad astromenace augustus dolphin-emu gamemode gamescope gnuchess goverlay hedgewars knights kolf kpat libretro-core-info lutris mangohud openra openrct2 prismlauncher retroarch retroarch-assets-ozone retroarch-assets-xmb singularity steam steam-native-runtime supertux supertuxkart teeworlds warsow warzone2100 wesnoth xonotic
 
 5. Instalar jogos (flatpak): sudo flatpak install com.heroicgameslauncher.hgl io.github.dosbox-staging net.davidotek.pupgui2 net.sourceforge.ExtremeTuxRacer net.veloren.airshipper
