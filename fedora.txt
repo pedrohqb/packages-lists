@@ -12,4 +12,4 @@
 
 5. Instalar jogos (flatpak): sudo flatpak install com.github.keriew.augustus com.heroicgameslauncher.hgl io.openrct2.OpenRCT2 net.davidotek.pupgui2 net.openra.OpenRA net.veloren.airshipper org.prismlauncher.PrismLauncher
 
-6. Instalar avulsos: lacuna-webpki mscorefonts2 pdfsam pje-office safesignidentityclient softplan-websigner
+6. Instalar avulsos: lacuna-webpki mscorefonts2 pdfsam pje-office safesignidentityclient softplan-websigner zulu-11
