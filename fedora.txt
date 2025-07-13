@@ -4,7 +4,7 @@
 
 2. Instalar virtualização (dnf): sudo dnf install @virtualization
 
-3. Instalar aplicações (dnf): sudo dnf install audacity bibletime btrfs-assistant chromium distrobox evolution evolution-ews fastfetch flatseal gh gimp gimp-help-pt_BR GraphicsMagick k3b kate keepassxc langpacks-pt_BR ocrmypdf pdfarranger printer-driver-brlaser qbittorrent qpwgraph rclone rpm-build shrinkpdf snapper tesseract tesseract-langpack-eng tesseract-langpack-por yt-dlp
+3. Instalar aplicações (dnf): sudo dnf install audacity bibletime btrfs-assistant chromium distrobox evolution evolution-ews fastfetch flatseal gimp gimp-help-pt_BR GraphicsMagick k3b kate keepassxc langpacks-pt_BR ocrmypdf pdfarranger printer-driver-brlaser qbittorrent qpwgraph rclone rpm-build shrinkpdf snapper tesseract tesseract-langpack-eng tesseract-langpack-por yt-dlp
 
 3. Instalar aplicações (flatpak): sudo flatpak install com.microsoft.Edge com.obsproject.Studio com.spotify.Client com.usebottles.bottles de.haeckerfelix.Shortwave net.cozic.joplin_desktop org.ferdium.Ferdium org.kde.kdenlive org.signal.Signal org.telegram.desktop org.verapdf.veraPDF org.videolan.VLC us.zoom.Zoom
 
