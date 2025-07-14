@@ -1,6 +1,6 @@
 # Linux Mint 22
 
-1. Instalar aplicações (apt): sudo apt install audacity bibletime chromium default-jre distrobox docx2txt evolution evolution-ews gimp gimp-help-pt-br git gnome-font-viewer gparted graphicsmagick keepassxc ocrmypdf pcscd pdfarranger pdfsam podman qbittorrent qpwgraph rclone remmina spotify-client tesseract-ocr tesseract-ocr-eng tesseract-ocr-por ttf-mscorefonts-installer vlc whois
+1. Instalar aplicações (apt): sudo apt install audacity bibletime bridge-utils chromium default-jre distrobox docx2txt evolution evolution-ews gimp gimp-help-pt-br git gnome-font-viewer gparted graphicsmagick keepassxc libvirt-clients libvirt-daemon-system ocrmypdf pcscd pdfarranger pdfsam podman qbittorrent qemu-kvm qpwgraph rclone remmina spotify-client tesseract-ocr tesseract-ocr-eng tesseract-ocr-por ttf-mscorefonts-installer virt-manager vlc whois
 
 2. Instalar aplicações (flatpak): sudo flatpak install com.github.tchx84.Flatseal com.microsoft.Edge com.obsproject.Studio com.usebottles.bottles de.haeckerfelix.Shortwave net.cozic.joplin_desktop org.ferdium.Ferdium org.kde.kdenlive org.kde.kolourpaint org.signal.Signal org.telegram.desktop org.verapdf.veraPDF us.zoom.Zoom
 
