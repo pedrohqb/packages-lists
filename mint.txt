@@ -1,4 +1,4 @@
-# Linux Mint 22
+# Linux Mint Cinnamon 22
 
 1. Instalar aplicações (apt): sudo apt install audacity bibletime bridge-utils chromium default-jre distrobox docx2txt evolution evolution-ews font-manager gimp gimp-help-pt-br git gparted graphicsmagick input-remapper keepassxc libvirt-clients libvirt-daemon-system obs-studio ocrmypdf pcscd pdfarranger pdfsam podman qbittorrent qemu-kvm qpwgraph remmina steam-devices tesseract-ocr tesseract-ocr-eng tesseract-ocr-por ttf-mscorefonts-installer virt-manager vlc whois
 
