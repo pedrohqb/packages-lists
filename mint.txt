@@ -1,6 +1,6 @@
 # Linux Mint Cinnamon 22
 
-1. Instalar aplicações (apt): sudo apt install audacity bibletime bridge-utils chromium default-jre distrobox docx2txt evolution evolution-ews font-manager gimp gimp-help-pt-br git gparted graphicsmagick input-remapper keepassxc libvirt-clients libvirt-daemon-system obs-studio ocrmypdf pcscd pdfarranger pdfsam podman qbittorrent qemu-kvm qpwgraph remmina steam-devices tesseract-ocr tesseract-ocr-eng tesseract-ocr-por ttf-mscorefonts-installer virt-manager vlc whois
+1. Instalar aplicações (apt): sudo apt install audacity bibletime bridge-utils chromium default-jre distrobox docx2txt evolution evolution-ews font-manager gimp gimp-help-pt-br git gparted graphicsmagick input-remapper keepassxc libvirt-clients libvirt-daemon-system obs-studio ocrmypdf pcscd pdfarranger pdfsam podman qbittorrent qemu-kvm qpwgraph remmina steam-devices tesseract-ocr tesseract-ocr-eng tesseract-ocr-por ttf-mscorefonts-installer virt-manager vlc whois xfburn
 
 2. Instalar aplicações (flatpak): sudo flatpak install com.github.tchx84.Flatseal com.github.unrud.VideoDownloader com.microsoft.Edge com.spotify.Client com.usebottles.bottles de.haeckerfelix.Shortwave net.cozic.joplin_desktop org.ferdium.Ferdium org.gnome.Papers org.kde.kdenlive org.signal.Signal org.telegram.desktop org.verapdf.veraPDF us.zoom.Zoom
 
