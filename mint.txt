@@ -10,4 +10,6 @@
 
 ---
 
-# Linux Mint Debian Edition 6
+# Linux Mint Debian Edition 7
+
+Após lançamento.
