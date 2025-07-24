@@ -1,4 +1,4 @@
-# Fedora KDE Plasma
+# Fedora KDE Plasma 42
 
 1. Ajustar repositórios: habilitar Flathub, desabilitar Fedora Flatpaks e habilitar RPM Fusion Steam
 
