@@ -1,4 +1,4 @@
-# Bluefin e Aurora
+# Bluefin
 
 1. Instalar aplicações (flatpak): flatpak install com.brave.Browser com.github.jeromerobert.pdfarranger com.github.unrud.VideoDownloader com.microsoft.Edge com.obsproject.Studio com.ranfdev.DistroShelf com.spotify.Client com.usebottles.bottles de.haeckerfelix.Shortwave info.bibletime.BibleTime net.cozic.joplin_desktop org.audacityteam.Audacity org.ferdium.Ferdium org.gimp.GIMP org.gnome.Boxes org.gnome.Evolution org.kde.kdenlive org.keepassxc.KeePassXC org.libreoffice.LibreOffice org.qbittorrent.qBittorrent org.rncbc.qpwgraph org.signal.Signal org.telegram.desktop org.verapdf.veraPDF org.videolan.VLC us.zoom.Zoom
 
@@ -10,5 +10,5 @@
 
 5. Instalar avulsos: calibri pdfsam
 
-6. Extensões Gnome (apenas Bluefin): Alphabetical App Grid, Weather O'Clock
+6. Extensões Gnome: Alphabetical App Grid, Weather O'Clock
 
