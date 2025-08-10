@@ -10,5 +10,5 @@
 
 5. Instalar avulsos: calibri pdfsam
 
-6. Extensões Gnome: Alphabetical App Grid, Weather O'Clock
+6. Extensões Gnome (apenas Bluefin): Alphabetical App Grid, Weather O'Clock
 
