@@ -9,5 +9,3 @@
 4. Instalar jogos (flatpak): flatpak install com.dec05eba.gpu_screen_recorder com.github.keriew.augustus com.github.Matoking.protontricks com.heroicgameslauncher.hgl com.obsproject.Studio.Plugin.OBSVkCapture com.play0ad.zeroad com.teeworlds.Teeworlds com.valvesoftware.Steam com.valvesoftware.Steam.Utility.steamtinkerlaunch com.viewizard.AstroMenace com.vysp3r.ProtonPlus io.github.dosbox-staging io.openrct2.OpenRCT2 net.lutris.Lutris net.openra.OpenRA net.sourceforge.ExtremeTuxRacer net.supertuxkart.SuperTuxKart net.veloren.airshipper net.warsow.Warsow net.wz2100.wz2100 org.DolphinEmu.dolphin-emu org.freedesktop.Platform.VulkanLayer.gamescope org.freedesktop.Platform.VulkanLayer.MangoHud org.freedesktop.Platform.VulkanLayer.OBSVkCapture org.gnome.Aisleriot org.gnome.Chess org.hedgewars.Hedgewars org.kde.kolf org.libretro.RetroArch org.prismlauncher.PrismLauncher org.supertuxproject.SuperTux org.wesnoth.Wesnoth org.xonotic.Xonotic
 
 5. Extensões Gnome: Alphabetical App Grid, Weather O'Clock
-
-Opcional: habilitar "developer mode" (https://docs.projectbluefin.io/bluefin-dx) para ter suporte a virtualização mais completo
