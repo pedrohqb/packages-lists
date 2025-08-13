@@ -2,7 +2,7 @@
 
 1. Instalar aplicações (flatpak): flatpak install com.brave.Browser com.discordapp.Discord com.github.jeromerobert.pdfarranger com.github.unrud.VideoDownloader com.microsoft.Edge com.obsproject.Studio com.spotify.Client com.usebottles.bottles de.haeckerfelix.Shortwave info.bibletime.BibleTime net.cozic.joplin_desktop org.audacityteam.Audacity org.ferdium.Ferdium org.gimp.GIMP org.gnome.Evolution org.kde.kdenlive org.keepassxc.KeePassXC org.libreoffice.LibreOffice org.qbittorrent.qBittorrent org.rncbc.qpwgraph org.signal.Signal org.telegram.desktop org.verapdf.veraPDF org.videolan.VLC org.virt_manager.virt-manager org.virt_manager.virt_manager.Extension.Qemu us.zoom.Zoom
 
-2. Instalar aplicações (brew): brew install tesseract tesseract-lang docx2txt graphicsmagick ocrmypdf onedrive-cli yt-dlp
+2. Instalar aplicações (brew): brew install docx2txt graphicsmagick ocrmypdf onedrive-cli tesseract-lang yt-dlp
 
 3. Instalar contêiner com aplicativos para advocacia (distrobox): distrobox-assemble create --file https://raw.githubusercontent.com/pedrohqb/distrobox-adv-br/refs/heads/main/distrobox-adv-br
 
