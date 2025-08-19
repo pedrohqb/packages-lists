@@ -6,6 +6,8 @@
 
 3. Instalar contêiner com aplicativos para advocacia (distrobox): distrobox-assemble create --file https://raw.githubusercontent.com/pedrohqb/distrobox-adv-br/refs/heads/main/distrobox-adv-br
 
-4. Instalar jogos (flatpak): ujust install-gaming-flatpaks
+4. Instalar contêiner com SoftMaker Office (distrobox)
 
-5. Extensões Gnome: Alphabetical App Grid, Weather O'Clock
+5. Instalar jogos (flatpak): ujust install-gaming-flatpaks
+
+6. Extensões Gnome: Alphabetical App Grid, Weather O'Clock
