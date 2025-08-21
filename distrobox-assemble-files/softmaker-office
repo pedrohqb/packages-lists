@@ -1,8 +1,7 @@
 [softmaker-office]
-# Criar contêiner com Ubuntu
-image=ghcr.io/ublue-os/ubuntu-toolbox
+# Criar contêiner com Debian
+image=docker.io/library/debian:trixie
 home=~/.softmaker-office
-start_now=true
 
 ## INSTALAR PACOTES ##
 
