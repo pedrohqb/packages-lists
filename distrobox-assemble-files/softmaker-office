@@ -14,7 +14,7 @@ init_hooks="if [ ! -f /root/.first_run_complete ]; then grep -v '/usr/share/offi
 
 init_hooks="if [ ! -f /root/.first_run_complete ]; then grep -v '/usr/share/officenx' /usr/share/applications/textmaker-nx.desktop > /usr/share/applications/temp_file.txt && mv /usr/share/applications/temp_file.txt /usr/share/applications/textmaker-nx.desktop; fi"
 
-# Assegurar que a instalação dos pacotes adicionais não se repita
+# Assegurar que a instalação dos pacotes não se repita
 init_hooks="touch /root/.first_run_complete"
 
 # Exportar todos os aplicativos relevantes
