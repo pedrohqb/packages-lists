@@ -8,8 +8,10 @@
 
 4. Instalar contêiner com SoftMaker Office (distrobox): distrobox-assemble create --file https://raw.githubusercontent.com/pedrohqb/packages-lists/refs/heads/main/distrobox-assemble-files/softmaker-office
 
-5. Instalar jogos (flatpak): ujust install-gaming-flatpaks
+5. Instalar dotfiles (fonte e configuração do Evolution): curl -s https://raw.githubusercontent.com/pedrohqb/dotfiles/refs/heads/main/instalar-dotfiles.sh | bash
 
-6. Instalar jogos adicionais (flatpak): flatpak install org.prismlauncher.PrismLauncher
+6. Instalar jogos (flatpak): ujust install-gaming-flatpaks
 
-7. Extensões Gnome: Alphabetical App Grid, Weather O'Clock
+7. Instalar jogos adicionais (flatpak): flatpak install org.prismlauncher.PrismLauncher
+
+8. Extensões Gnome: Alphabetical App Grid, Weather O'Clock
