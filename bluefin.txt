@@ -10,4 +10,6 @@
 
 5. Instalar jogos (flatpak): ujust install-gaming-flatpaks
 
-6. Extensões Gnome: Alphabetical App Grid, Weather O'Clock
+6. Instalar jogos adicionais (flatpak): flatpak install org.prismlauncher.PrismLauncher
+
+7. Extensões Gnome: Alphabetical App Grid, Weather O'Clock
