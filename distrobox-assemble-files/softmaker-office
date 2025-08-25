@@ -3,6 +3,9 @@
 image=docker.io/library/debian:trixie
 home=~/.softmaker-office
 
+# Instalar pacote para suporte à impressão
+additional_packages="cups"
+
 ## INSTALAR PACOTES ##
 
 # Instalar SoftMaker Office
