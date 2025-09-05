@@ -12,6 +12,6 @@
 
 6. Instalar jogos (flatpak): ujust install-gaming-flatpaks
 
-7. Instalar jogos adicionais (flatpak): flatpak install org.prismlauncher.PrismLauncher
+7. Instalar jogos adicionais (flatpak): flatpak install com.github.keriew.augustus io.openrct2.OpenRCT2 org.prismlauncher.PrismLauncher
 
 8. Extensões Gnome: Alphabetical App Grid, Weather O'Clock
