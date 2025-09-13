@@ -12,6 +12,6 @@
 
 6. Instalar jogos (flatpak): ujust install-gaming-flatpaks
 
-7. Instalar jogos adicionais (flatpak): flatpak install com.github.keriew.augustus com.play0ad.zeroad io.openrct2.OpenRCT2 org.libretro.RetroArch org.prismlauncher.PrismLauncher
+7. Instalar jogos adicionais (flatpak): flatpak install com.github.keriew.augustus com.play0ad.zeroad com.viewizard.AstroMenace io.github.dosbox-staging io.openrct2.OpenRCT2 net.openra.OpenRA net.supertuxkart.SuperTuxKart net.wz2100.wz2100 org.libretro.RetroArch org.prismlauncher.PrismLauncher org.wesnoth.Wesnoth org.xonotic.Xonotic
 
 8. Extensões Gnome: Alphabetical App Grid, Weather O'Clock
