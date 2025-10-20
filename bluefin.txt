@@ -12,4 +12,4 @@
 
 6. Extensões Gnome: Alphabetical App Grid, Weather O'Clock
 
-Opcional: PDFsam
+7. Aplicativos avulsos: PDFsam
