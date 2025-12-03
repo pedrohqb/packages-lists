@@ -5,3 +5,5 @@
 2. Instalar aplicações (brew): brew install graphicsmagick ocrmypdf onedrive-cli tesseract-lang yt-dlp
 
 3. Instalar contêiner com aplicativos para advocacia (distrobox): distrobox-assemble create --file https://raw.githubusercontent.com/pedrohqb/distrobox-adv-br/refs/heads/main/distrobox-adv-br
+
+4. Aplicativos avulsos: PDFsam
