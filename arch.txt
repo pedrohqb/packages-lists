@@ -8,4 +8,4 @@
 
 4. Instalar jogos (pacman): sudo pacman -Suy --needed 0ad astromenace augustus dolphin-emu gamemode gamescope gnuchess goverlay hedgewars knights kolf kpat libretro-core-info lutris mangohud openra openrct2 prismlauncher retroarch retroarch-assets-ozone retroarch-assets-xmb singularity steam supertux supertuxkart teeworlds warsow warzone2100 wesnoth xonotic
 
-5. Instalar jogos (flatpak): sudo flatpak install com.heroicgameslauncher.hgl io.github.dosbox-staging net._86box._86Box net.davidotek.pupgui2 net.sourceforge.ExtremeTuxRacer net.veloren.airshipper
+5. Instalar jogos (flatpak): sudo flatpak install com.github.k4zmu2a.spacecadetpinball com.heroicgameslauncher.hgl io.github.dosbox-staging net._86box._86Box net.davidotek.pupgui2 net.sourceforge.ExtremeTuxRacer net.veloren.airshipper org.srb2.SRB2
