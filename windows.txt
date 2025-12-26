@@ -1,5 +1,5 @@
 # Windows 11
 
-1. Instalar aplicações (winget): winget install --id=Mozilla.Firefox -e ; winget install --id=TheDocumentFoundation.LibreOffice -e ; winget install --id=PDFsam.PDFsam -e ; winget install --id=Adobe.Acrobat.Reader.64-bit -e ; winget install --id=LacunaSoftware.WebPKI -e ; winget install --id=SoftplanSistemas.WebSigner -e ; winget install --id=A.E.T.EuropeB.V.SafeSignICStandardWindows64-bits -e ; winget install -e --id Thales.SafeNetAuthenticationClient ; winget install -e --id Brave.Brave ; winget install -e --id KeePassXCTeam.KeePassXC
+1. Instalar aplicações (winget): winget install --id=Mozilla.Firefox -e ; winget install --id=TheDocumentFoundation.LibreOffice -e ; winget install --id=PDFsam.PDFsam -e ; winget install --id=Adobe.Acrobat.Reader.64-bit -e ; winget install --id=LacunaSoftware.WebPKI -e ; winget install --id=SoftplanSistemas.WebSigner -e ; winget install -e --id AETEurope.SafeSignICMiniDriver ; winget install -e --id Thales.SafeNetAuthenticationClient ; winget install -e --id Brave.Brave ; winget install -e --id KeePassXCTeam.KeePassXC
 
 2. Instalar avulsos: PJeOffice Pro e SerproID
